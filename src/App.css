@@ -1,38 +1,198 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+.main
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+
+  
+}
+
+
+.container
+{
+ 
+  
+  /* box-shadow: 0px 0px 129px 45px rgb(20,45,77); */
+  
+/* -moz-box-shadow: 0px 0px 129px 45px rgb(20,45,77); */
+  width: 405px;
+  height: 300px;
+  margin-top: 123px;
+
+  background-color: rgb(20,45,77);
+
+}
+.first
+{
   color: white;
+  background-color: pink;
+  text-align: center;
+  width: 164px;
+  height: 105px;
+  padding-top: 7px;
+  background-color: rgb(20,45,77);
+  
+  
+}
+.second
+{
+  color: white;
+  background-color: red;
+  text-align: center;
+  width: 164px;
+  height: 105px;
+  padding-top: 7px;
+
+  background-color:rgb(20,45,77) ;
+  
 }
 
-.App-link {
-  color: #61dafb;
+.third
+{
+  color: white;
+  background-color: red;
+  text-align: center;
+  width: 164px;
+  height: 105px;
+  padding-top: 9px;
+  background-color: rgb(20,45,77);
+  
+}
+.four
+{
+
+  color: white;
+  background-color: red;
+  text-align: center;
+
+  width: 164px;
+  height: 105px;
+  padding-top: 9px;
+  background-color: rgb(20,45,77);
+  
+  /* padding-top: 22px; */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.line
+{
+  width: 311px ;
+  height: 1px;
+  margin-left: 36px;
+  background-color: goldenrod;
+}
+.linee
+{
+  width: 1px ;
+  height: 105px;
+  background-color: goldenrod;
+
+}
+#one
+{
+  padding-top: 43px;
+  display: flex;
+  padding-left: 25px;
+}
+
+#two
+{
+  display: flex;
+  padding-left: 25px;
+}
+img{
+  width: 32px;
+  height: 43px;
+
+}
+.container2
+{
+
+  
+  margin-left: -155px;
+  background-color:white;
+  height: 420px;
+  width: 533px;
+  
+ margin-right: px;;
+
+ margin-top: 3px;
+}
+.profile
+{
+
+  display: flex;
+  margin-left: 72px;
+  
+}
+.pilo
+{
+  margin-top: 14px;
+  margin-left: 72px;
+}
+.profile img{
+
+  padding: 6px 3px;
+}
+.box
+{
+  width: 55px;
+  height: 55px;
+  background-color: goldenrod;
+  text-align: center; 
+  margin-top: 123px;
+
+}
+.box img{
+  width: 37px;
+  height: 82px;
+  margin-top: -9px;
+}
+.last
+{
+  display: flex;
+}
+.one 
+{
+  /* background-color: blue; */
+
+  margin-left: 195px;
+  margin-top: 23px;
+  color: white;
+  border-radius: 33px;
+}
+
+.one img
+{
+  background-color: black;
+  width: 46px;
+  height: 45px;
+border-radius: 9px;
+ 
+  margin-top:8px ;
+  margin-left: 9px;
+}
+.one h5{
+  margin-top: -33px;
+  margin-left: 22px;
+  position: absolute;
+}
+.two
+{
+  /* background-color: blue; */
+  border: 3px solid goldenrod;
+  margin-left: 540px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 39px;
+  padding: 2px 23px;
+  color: white;
+  margin-top: 33px;
+}
+
+.home
+{
+  
+  height: 2222px;
+  margin-top: -73px;
 }
